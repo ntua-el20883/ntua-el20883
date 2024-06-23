@@ -1,6 +1,6 @@
 # Hello 👋, I'm Ioannis (Juan) Tsantilas!
 
-I'm a passionate developer working on several open-source projects. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ## 🛠 Skills and Tools:
 - Languages: Python, C/C++, C#
