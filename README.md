@@ -3,8 +3,8 @@
 I'm a passionate developer working on several open-source projects. Welcome to my GitHub profile!
 
 ## 🛠 Skills and Tools:
-- Languages: JavaScript, Python, C++
-- Tools: Node.js, React, Docker
+- Languages: Python, C/C++, C#
+- Tools: Node.js, Firebase, Docker, VS-Code, Adobe, Microsoft
 
 ## 🔥 My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ntua-el20833&show_icons=true&theme=tokyonight)
