@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🛠 Skills and Tools:
-- Languages: Python, C/C++, C#
+- Languages: Python, C/C++, C#, React-JS, Django
 - Tools: Node.js, Firebase, Docker, VS-Code, Adobe, Microsoft
 
 ## 🔥 My GitHub Stats:
